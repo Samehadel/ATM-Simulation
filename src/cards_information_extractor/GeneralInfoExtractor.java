@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cards_information_extractor_package;
+package cards_information_extractor;
 
 import java.sql.Date;
 import java.sql.SQLException;

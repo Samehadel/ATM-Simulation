@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cards_information_extractor_package;
+package cards_information_extractor;
 
 import bank_cards.*;
-import database_related_package.OperationsDAO;
+import database_dao.OperationsDAO;
 import java.sql.Date;
 import java.sql.ResultSet;
 import java.sql.SQLException;

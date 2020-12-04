@@ -7,7 +7,7 @@ package money_operations_package;
 
 import bank_cards.Card;
 import bank_clients.AccountHolder;
-import database_related_package.OperationsDAO;
+import database_dao.OperationsDAO;
 import java.sql.SQLException;
 import machine_releated_package.MachineOperations;
 

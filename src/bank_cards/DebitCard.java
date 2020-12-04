@@ -5,7 +5,7 @@
  */
 package bank_cards;
 
-import cards_information_extractor_package.DebitInformationExtractor;
+import cards_information_extractor.DebitInformationExtractor;
 import java.sql.SQLException;
 import money_operations_package.DebitCardOperations;
 import money_operations_package.MoneyOperations;
