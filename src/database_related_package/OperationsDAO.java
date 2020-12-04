@@ -17,7 +17,7 @@ public class OperationsDAO {
     //Database configuration constants
     private final String url = "jdbc:mysql://127.0.0.2:3306/bank_db";
     private final String userName = "root";
-    private final String password = "sameh01021136366";
+    private final String password = "root";
     
     private Connection conn; 
     private Statement stmt; 
